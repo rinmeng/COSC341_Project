@@ -1,2 +1,3 @@
 # COSC341_Project
-EAgno, nsema04, rinmeng, KeeranNaidu12
+EAgno, nsema04, KeeranNaidu12 
+feat. rinmeng
